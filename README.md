@@ -1,2 +1,2 @@
 # DH-PHP
-exercício de php desenvolvidos no curso de FULL STACK - DIGITAL HOUSE
+exercícios de php desenvolvidos no curso de FULL STACK - DIGITAL HOUSE
